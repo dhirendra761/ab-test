@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  font-size: 24px;
+}
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+}
+button.btn {
+  background-color: aquamarine;
+}
+button.btn2 {
+  background-color: blueviolet;
+}
+button.btn3 {
+  background-color: burlywood;
+}
